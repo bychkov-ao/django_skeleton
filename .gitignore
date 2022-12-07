@@ -1,0 +1,15 @@
+.idea/
+
+*.log
+*.pot
+*.py.[cod]
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+local.py
+prod.py
+media/**
+!media/
+!media/.gitkeep
+
